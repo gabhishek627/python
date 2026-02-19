@@ -31,3 +31,14 @@ print(result)
 data = "This is just a string of text"
 print("This is first argument","This is 2nd argument",data)
 
+
+
+O/P:
+This is a long string just to illustrate continuation across multiple lines
+2200
+This is first argument This is 2nd argument This is just a string of text
+
+
+
+
+
