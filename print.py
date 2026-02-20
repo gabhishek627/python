@@ -34,7 +34,7 @@
  #     • file
  #        – File to output the arguments.
 
-  
+1. 
 message ="This is a long string just to \
 illustrate continuation across multiple lines"
 
@@ -55,6 +55,19 @@ O/P:
 This is a long string just to illustrate continuation across multiple lines
 2200
 This is first argument This is 2nd argument This is just a string of text
+
+
+2. 
+>>> response = input("Please enter some text:")
+Please enter some text:hari
+>>> response1 = input("Please enter sirname:")
+Please enter sirname:sadu
+>>> 
+>>> print("The name of boy is", response, response1, sep=",")
+The name of boy is,hari,sadu
+
+
+3. 
 
 
 
