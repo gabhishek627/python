@@ -17,6 +17,24 @@
 
 # 5. We indicate the arguments to the print() function using commas, and Python ignores the additional white spaces. Although not recommended, Python allows any number of white space characters between the opening and closing parenthesis, which do not need to comply with indentation rules.
 
+
+
+#Simple Output
+ # We have demonstrated the print() function in several forms in previous examples. 
+ #• This function takes zero or more arguments, separated by commas, and displays the data.
+ # • The default behavior of the function is:
+# – When there is more than one argument, print() displays each of the arguments separatedby a single space.
+
+# – print() displays a new line after the last parameter.
+ #   You can alter the default behavior by providing the following optional named arguments.
+ #     • sep
+ #        – Separator character to display between arguments.
+ #     • end
+ #        – Character to display after the last parameter.
+ #     • file
+ #        – File to output the arguments.
+
+  
 message ="This is a long string just to \
 illustrate continuation across multiple lines"
 
