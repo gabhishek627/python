@@ -78,3 +78,8 @@ Please enter a number: 456
 >>> print("The response of", response, "is of type", type(response))
 The response of 456 is of type <class 'str'>
 >>> exit()
+
+
+
+4. 
+
